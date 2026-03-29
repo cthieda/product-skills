@@ -1,0 +1,9 @@
+{
+  "name": "dxt-product-lifecycle",
+  "version": "0.1.0",
+  "description": "DXT Center for Product Excellence — skills and commands for every action in the DXT Product Lifecycle: Clear Opportunity, Clear Solution, and Clear Outcomes.",
+  "author": {
+    "name": "DXT Center for Product Excellence"
+  },
+  "keywords": ["product management", "DXT", "product lifecycle", "Disney", "CPE"]
+}
